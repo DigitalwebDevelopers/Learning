@@ -1,2 +1,1 @@
-pop: this method is used to delte the element from the end of array
 forEach : this is a loop used in array
