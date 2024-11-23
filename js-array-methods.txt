@@ -1,2 +1,3 @@
 
 forEach : this is a loop used in array
+push: this method is used to add the element at the end of array
